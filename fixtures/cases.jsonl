@@ -2,3 +2,4 @@
 {"expected_error": true, "id": "synthetic-config-0001", "input": "[service]\nname = sample-1\nport = 1025\nunexpected = false\n"}
 {"expected_error": true, "id": "synthetic-config-0002", "input": "[service]\nname = sample-2\nport = 1026\ndebug = true\nname = duplicate\n"}
 {"expected_error": true, "id": "synthetic-config-0003", "input": "[service]\nname = Invalid Name\nport = 1027\ndebug = false\n"}
+{"expected_error": true, "id": "synthetic-config-0004", "input": "[service]\nname = sample-4\nport = 1028\ndebug = perhaps\n"}
