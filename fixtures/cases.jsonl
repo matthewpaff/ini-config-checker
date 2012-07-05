@@ -1,0 +1,1 @@
+{"expected_error": true, "id": "synthetic-config-0000", "input": "[service]\nname = sample-0\nport = 0\ndebug = true\n"}
