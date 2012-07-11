@@ -4,3 +4,4 @@
 {"expected_error": true, "id": "synthetic-config-0003", "input": "[service]\nname = Invalid Name\nport = 1027\ndebug = false\n"}
 {"expected_error": true, "id": "synthetic-config-0004", "input": "[service]\nname = sample-4\nport = 1028\ndebug = perhaps\n"}
 {"expected": {"debug": false, "name": "sample-5", "port": 1029}, "id": "synthetic-config-0005", "input": "[service]\nname = sample-5\nport = 1029\ndebug = false\n"}
+{"expected": {"debug": true, "name": "sample-6", "port": 1030}, "id": "synthetic-config-0006", "input": "[service]\nname = sample-6\nport = 1030\ndebug = true\n"}
