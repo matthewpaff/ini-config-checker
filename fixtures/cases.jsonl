@@ -16,3 +16,4 @@
 {"expected": {"debug": false, "name": "sample-15", "port": 1039}, "id": "synthetic-config-0015", "input": "[service]\nname = sample-15\nport = 1039\ndebug = false\n"}
 {"expected": {"debug": true, "name": "sample-16", "port": 1040}, "id": "synthetic-config-0016", "input": "[service]\nname = sample-16\nport = 1040\ndebug = true\n"}
 {"expected": {"debug": false, "name": "sample-17", "port": 1041}, "id": "synthetic-config-0017", "input": "[service]\nname = sample-17\nport = 1041\ndebug = false\n"}
+{"expected": {"debug": true, "name": "sample-18", "port": 1042}, "id": "synthetic-config-0018", "input": "[service]\nname = sample-18\nport = 1042\ndebug = true\n"}
