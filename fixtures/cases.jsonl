@@ -59,3 +59,4 @@
 {"expected": {"debug": true, "name": "sample-58", "port": 1082}, "id": "synthetic-config-0058", "input": "[service]\nname = sample-58\nport = 1082\ndebug = true\n"}
 {"expected": {"debug": false, "name": "sample-59", "port": 1083}, "id": "synthetic-config-0059", "input": "[service]\nname = sample-59\nport = 1083\ndebug = false\n"}
 {"expected_error": true, "id": "synthetic-config-0060", "input": "[service]\nname = sample-60\nport = 0\ndebug = true\n"}
+{"expected_error": true, "id": "synthetic-config-0061", "input": "[service]\nname = sample-61\nport = 1085\nunexpected = false\n"}
