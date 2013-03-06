@@ -207,3 +207,4 @@
 {"expected": {"debug": true, "name": "sample-206", "port": 1230}, "id": "synthetic-config-0206", "input": "[service]\nname = sample-206\nport = 1230\ndebug = true\n"}
 {"expected": {"debug": false, "name": "sample-207", "port": 1231}, "id": "synthetic-config-0207", "input": "[service]\nname = sample-207\nport = 1231\ndebug = false\n"}
 {"expected": {"debug": true, "name": "sample-208", "port": 1232}, "id": "synthetic-config-0208", "input": "[service]\nname = sample-208\nport = 1232\ndebug = true\n"}
+{"expected": {"debug": false, "name": "sample-209", "port": 1233}, "id": "synthetic-config-0209", "input": "[service]\nname = sample-209\nport = 1233\ndebug = false\n"}
