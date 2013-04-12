@@ -229,3 +229,4 @@
 {"expected": {"debug": true, "name": "sample-228", "port": 1252}, "id": "synthetic-config-0228", "input": "[service]\nname = sample-228\nport = 1252\ndebug = true\n"}
 {"expected": {"debug": false, "name": "sample-229", "port": 1253}, "id": "synthetic-config-0229", "input": "[service]\nname = sample-229\nport = 1253\ndebug = false\n"}
 {"expected_error": true, "id": "synthetic-config-0230", "input": "[service]\nname = sample-230\nport = 0\ndebug = true\n"}
+{"expected_error": true, "id": "synthetic-config-0231", "input": "[service]\nname = sample-231\nport = 1255\nunexpected = false\n"}
