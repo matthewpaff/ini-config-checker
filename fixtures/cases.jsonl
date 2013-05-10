@@ -242,3 +242,4 @@
 {"expected_error": true, "id": "synthetic-config-0241", "input": "[service]\nname = sample-241\nport = 1265\nunexpected = false\n"}
 {"expected_error": true, "id": "synthetic-config-0242", "input": "[service]\nname = sample-242\nport = 1266\ndebug = true\nname = duplicate\n"}
 {"expected_error": true, "id": "synthetic-config-0243", "input": "[service]\nname = Invalid Name\nport = 1267\ndebug = false\n"}
+{"expected_error": true, "id": "synthetic-config-0244", "input": "[service]\nname = sample-244\nport = 1268\ndebug = perhaps\n"}
