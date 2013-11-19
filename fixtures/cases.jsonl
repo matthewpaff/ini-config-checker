@@ -341,3 +341,4 @@
 {"expected_error": true, "id": "synthetic-config-0340", "input": "[service]\nname = sample-340\nport = 0\ndebug = true\n"}
 {"expected_error": true, "id": "synthetic-config-0341", "input": "[service]\nname = sample-341\nport = 1365\nunexpected = false\n"}
 {"expected_error": true, "id": "synthetic-config-0342", "input": "[service]\nname = sample-342\nport = 1366\ndebug = true\nname = duplicate\n"}
+{"expected_error": true, "id": "synthetic-config-0343", "input": "[service]\nname = Invalid Name\nport = 1367\ndebug = false\n"}
