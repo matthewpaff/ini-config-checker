@@ -348,3 +348,4 @@
 {"expected": {"debug": false, "name": "sample-347", "port": 1371}, "id": "synthetic-config-0347", "input": "[service]\nname = sample-347\nport = 1371\ndebug = false\n"}
 {"expected": {"debug": true, "name": "sample-348", "port": 1372}, "id": "synthetic-config-0348", "input": "[service]\nname = sample-348\nport = 1372\ndebug = true\n"}
 {"expected": {"debug": false, "name": "sample-349", "port": 1373}, "id": "synthetic-config-0349", "input": "[service]\nname = sample-349\nport = 1373\ndebug = false\n"}
+{"expected_error": true, "id": "synthetic-config-0350", "input": "[service]\nname = sample-350\nport = 0\ndebug = true\n"}
